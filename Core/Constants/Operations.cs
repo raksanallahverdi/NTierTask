@@ -10,7 +10,7 @@ namespace Core.Constants
     {
         Exit,
         AllGroups,
-        GroupById,
+        GroupByName,
         AddGroup,
         UpdateGroup,
         DeleteGroup,

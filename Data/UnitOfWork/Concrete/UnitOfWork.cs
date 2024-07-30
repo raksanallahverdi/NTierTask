@@ -7,31 +7,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Data.UnitOfWork.Concrete
+namespace Data.UnitOfWork.Concrete;
+
+public class UnitOfWork:IUnitOfWork
 {
-    public class UnitOfWork:IUnitOfWork
+    public readonly GroupRepository Groups;
+    public readonly StudentRepository Students;
+    private readonly AppDbContext _context;
+    public UnitOfWork()
     {
-        public readonly GroupRepository Groups;
-        public readonly StudentRepository Students;
-        private readonly AppDbContext _context;
-        public UnitOfWork()
-        {
-       
-            Groups = new GroupRepository(_context);
-            Students = new StudentRepository(_context);
-        }
-        public void Commit()
-        {
-            try
-            {
-                _context.SaveChanges();
-            }
-            catch (Exception)
-            {
+        _context = new AppDbContext();
 
-                throw;
-            }
-
+        Groups = new GroupRepository(_context);
+        Students = new StudentRepository(_context);
+    }
+    public void Commit()
+    {
+        try
+        {
+            _context.SaveChanges();
         }
+        catch (Exception)
+        {
+
+            throw;
+        }
+
     }
 }

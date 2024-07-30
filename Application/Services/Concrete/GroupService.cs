@@ -24,23 +24,109 @@ public class GroupService:IGroupService
     public void GetAllGroups()
     {
         foreach (var group in _unitOfWork.Groups.GetAll()) {
-            Console.WriteLine(group);
-        } 
+            Console.WriteLine($"Name: {group.Name} ");
+        }
+        _unitOfWork.Commit();
+
     }
-    public void GetGroupByName(int id)
+    public void GetGroupByName()
     {
-       
-       _unitOfWork.Groups.Get( id);
+
+    InputNameSection:
+        Messages.InputMessage("Name");
+        string inputName = Console.ReadLine();
+        foreach (var group in _unitOfWork.Groups.GetAll())
+        {
+            if (group.Name == inputName) {
+
+                Console.WriteLine($"Name: {group.Name}");
+            }
+        }
+        Messages.NotFoundMessage("Group");
+        goto InputNameSection;
+
+
+
+
     }
-    public void AddGroup(Group group)
+    public void AddGroup()
     {
+    GroupName:
+        Messages.InputMessage("name");
+        string name = Console.ReadLine();
+        if (string.IsNullOrWhiteSpace(name))
+        {
+            Messages.InvalidInputMessage("Name");
+            goto GroupName;
+        }
+    
+        Group group = new Group
+        {
+            Name = name,
+           
+        };
         _unitOfWork.Groups.Add(group);
+        Messages.SuccessMessage("Grroup","Added");
+        _unitOfWork.Commit();
     }
-    public void RemoveGroup(Group group) { 
-    _unitOfWork.Groups.Delete(group);    
+    public void RemoveGroup() {
+
+    IdInput:
+        Messages.InputMessage("Id");
+        string inputId = Console.ReadLine();
+        int id;
+        bool isSucceeded = int.TryParse(inputId, out id);
+        if (!isSucceeded)
+        {
+            Messages.InvalidInputMessage("id");
+            goto IdInput;
+        }
+
+        Group group = _unitOfWork.Groups.Get(id);
+        if (group == null)
+        {
+            Messages.NotFoundMessage("Group");
+            return;
+        }
+
+        _unitOfWork.Groups.Delete(group);
+        Messages.SuccessMessage("Group","Deleted");
+        _unitOfWork.Commit();
     }
-    public void UpdateGroup(Group group) { 
-    _unitOfWork.Groups.Update(group);
+
+    public void UpdateGroup() {
+
+    IdInput:
+        Messages.InputMessage("id");
+        string inputId = Console.ReadLine();
+        int id;
+        bool isSucceeded = int.TryParse(inputId, out id);
+        if (!isSucceeded)
+        {
+            Messages.InvalidInputMessage("id");
+            goto IdInput;
+        }
+
+        Group group = _unitOfWork.Groups.Get(id);
+        if (group == null)
+        {
+            Messages.NotFoundMessage("Group");
+            return;
+        }
+
+    GroupNameInput:
+        Messages.InputMessage("Name");
+        string name = Console.ReadLine();
+        if (string.IsNullOrWhiteSpace(name))
+        {
+            Messages.InvalidInputMessage("Name");
+            goto GroupNameInput;
+        }
+
+        group.Name = name;
+        _unitOfWork.Groups.Update(group);
+        Messages.SuccessMessage("Updated","Group");
+        _unitOfWork.Commit();
     }
 
     

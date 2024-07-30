@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Presentation\\Presentation.csproj": {}
+    "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Presentation\\Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Application.csproj": {
+    "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\allah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\obj\\",
+        "outputPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Data.csproj"
+              "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Data.csproj"
               }
             }
           }
@@ -51,6 +51,12 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
             },
@@ -85,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Core.csproj": {
+    "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\allah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\obj\\",
+        "outputPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,6 +137,12 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -162,14 +174,14 @@
         }
       }
     },
-    "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Data.csproj": {
+    "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\allah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\obj\\",
+        "outputPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -187,8 +199,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Core.csproj"
+              "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Core.csproj"
               }
             }
           }
@@ -212,6 +224,12 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -243,14 +261,14 @@
         }
       }
     },
-    "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Presentation\\Presentation.csproj": {
+    "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Presentation\\Presentation.csproj",
+        "projectPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\allah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Presentation\\obj\\",
+        "outputPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -268,8 +286,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Application.csproj"
+              "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Application.csproj"
               }
             }
           }

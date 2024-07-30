@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\Services",
+    "\\Application\\Services\\Concrete",
+    "\\Core",
+    "\\Core\\Constants",
+    "\\Data",
+    "\\Data\\Contexts",
+    "\\Presentation"
+  ],
+  "SelectedNode": "\\Presentation\\Presentation.csproj",
+  "PreviewInSolutionExplorer": false
+}

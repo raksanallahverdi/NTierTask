@@ -1,78 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\",
+  "WorkspaceRootPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\application\\services\\concrete\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|solutionrelative:application\\services\\concrete\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Contexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Contexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\data\\repositories\\abstract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|solutionrelative:data\\repositories\\abstract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Migrations\\20240730184451_EntitiesAddedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240730184451_EntitiesAddedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\data\\repositories\\concrete\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|solutionrelative:data\\repositories\\concrete\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Migrations\\20240730183805_EntitiesAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240730183805_EntitiesAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|solutionrelative:data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Presentation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\data\\repositories\\concrete\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|solutionrelative:data\\repositories\\concrete\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Concrete\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\Concrete\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\data\\unitofwork\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|solutionrelative:data\\unitofwork\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\UnitOfWork\\Concrete\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\UnitOfWork\\Concrete\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\data\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|solutionrelative:data\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Constants\\Operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Constants\\Operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\application\\services\\concrete\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|solutionrelative:application\\services\\concrete\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Concrete\\GroupRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Repositories\\Concrete\\GroupRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD4531A-98CB-4959-AF02-6963D135CF19}|Presentation\\Presentation.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD4531A-98CB-4959-AF02-6963D135CF19}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\data\\repositories\\abstract\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|solutionrelative:data\\repositories\\abstract\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Entities\\Group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\Group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\application\\services\\abstract\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|solutionrelative:application\\services\\abstract\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Concrete\\GroupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\Concrete\\GroupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\application\\services\\abstract\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|solutionrelative:application\\services\\abstract\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Abstract\\IGroupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\Abstract\\IGroupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BC75D65-9C2C-4E96-9963-14B4F4A588D8}|Core\\Core.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BC75D65-9C2C-4E96-9963-14B4F4A588D8}|Core\\Core.csproj|solutionrelative:core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BC75D65-9C2C-4E96-9963-14B4F4A588D8}|Core\\Core.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BC75D65-9C2C-4E96-9963-14B4F4A588D8}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BC75D65-9C2C-4E96-9963-14B4F4A588D8}|Core\\Core.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BC75D65-9C2C-4E96-9963-14B4F4A588D8}|Core\\Core.csproj|solutionrelative:core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Abstract\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\Abstract\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\data\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BC92E1-7413-40E8-8BA2-EC07F53AA063}|Data\\Data.csproj|solutionrelative:data\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Concrete\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Repositories\\Concrete\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BC75D65-9C2C-4E96-9963-14B4F4A588D8}|Core\\Core.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\core\\constants\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BC75D65-9C2C-4E96-9963-14B4F4A588D8}|Core\\Core.csproj|solutionrelative:core\\constants\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Abstract\\IStudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Repositories\\Abstract\\IStudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|c:\\users\\allah\\source\\repos\\ntierarch\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A1AACCF4-0AFE-4893-BA56-02EF7BAE801F}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Abstract\\IGroupRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Repositories\\Abstract\\IGroupRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Base\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Repositories\\Base\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,241 +86,236 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Abstract\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Abstract\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Abstract\\IStudentRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Abstract\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Title": "20240730184451_EntitiesAddedd.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Migrations\\20240730184451_EntitiesAddedd.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240730184451_EntitiesAddedd.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Migrations\\20240730184451_EntitiesAddedd.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240730184451_EntitiesAddedd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T10:39:33.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T18:44:51.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240730183805_EntitiesAdded.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Migrations\\20240730183805_EntitiesAdded.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240730183805_EntitiesAdded.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Migrations\\20240730183805_EntitiesAdded.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240730183805_EntitiesAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:38:05.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:56:08.438Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GroupRepository.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Concrete\\GroupRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Concrete\\GroupRepository.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Concrete\\GroupRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Concrete\\GroupRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Concrete\\StudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\StudentService.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Concrete\\StudentService.cs",
+              "RelativeToolTip": "Application\\Services\\Concrete\\StudentService.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswI0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:30:44.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
-              "RelativeToolTip": "Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:49:25.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:07:16.292Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
               "RelativeToolTip": "Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwBIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:31:38.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:31:38.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Contexts\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Contexts\\AppDbContext.cs",
               "RelativeToolTip": "Data\\Contexts\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T08:44:07.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Concrete\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Concrete\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Concrete\\StudentRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Concrete\\StudentRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAABIAAAA",
+              "DocumentIndex": 6,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Constants\\Operations.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\Operations.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Constants\\Operations.cs",
+              "RelativeToolTip": "Core\\Constants\\Operations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:35:18.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GroupService.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Services\\Concrete\\GroupService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\GroupService.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Services\\Concrete\\GroupService.cs",
-              "RelativeToolTip": "Application\\Services\\Concrete\\GroupService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAACAAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:04:35.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:34:25.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Services\\Concrete\\StudentService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\StudentService.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Services\\Concrete\\StudentService.cs",
-              "RelativeToolTip": "Application\\Services\\Concrete\\StudentService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAArAAAA",
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Concrete\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Concrete\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Concrete\\GroupRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Concrete\\GroupRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwB4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:07:16.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:30:44.57Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Presentation\\Program.cs",
-              "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAowCcAAAAtAAAA",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Entities\\Student.cs",
+              "RelativeToolTip": "Core\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:56:08.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:12:25.362Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IGroupRepository.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Abstract\\IGroupRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Abstract\\IGroupRepository.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Abstract\\IGroupRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Abstract\\IGroupRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Entities\\Group.cs",
+              "RelativeToolTip": "Core\\Entities\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:40:13.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:13:08.973Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IGroupService.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Services\\Abstract\\IGroupService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Abstract\\IGroupService.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Services\\Abstract\\IGroupService.cs",
-              "RelativeToolTip": "Application\\Services\\Abstract\\IGroupService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Concrete\\GroupService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\GroupService.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Concrete\\GroupService.cs",
+              "RelativeToolTip": "Application\\Services\\Concrete\\GroupService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAhwCQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:19:16.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:04:35.255Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Services\\Abstract\\IStudentService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Abstract\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Services\\Abstract\\IStudentService.cs",
-              "RelativeToolTip": "Application\\Services\\Abstract\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Abstract\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstract\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Abstract\\IGroupService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstract\\IGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:09:58.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:19:16.106Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Entities\\Student.cs",
-              "RelativeToolTip": "Core\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:12:25.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:44:48.666Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "RelativeToolTip": "Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:44:48.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:49:25.613Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Entities\\Group.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Group.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Entities\\Group.cs",
-              "RelativeToolTip": "Core\\Entities\\Group.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Abstract\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstract\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Application\\Services\\Abstract\\IStudentService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstract\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:13:08.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:09:58.988Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Base\\Repository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Base\\Repository.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Data\\Repositories\\Base\\Repository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Base\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAZAAAA",
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Concrete\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Concrete\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Concrete\\StudentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Concrete\\StudentRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T08:48:49.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:35:18.973Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Operations.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Constants\\Operations.cs",
-              "RelativeDocumentMoniker": "Core\\Constants\\Operations.cs",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Constants\\Operations.cs",
-              "RelativeToolTip": "Core\\Constants\\Operations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Abstract\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Abstract\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Abstract\\IStudentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Abstract\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:34:25.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T10:39:33.976Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Application",
-              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Abstract\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Abstract\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Abstract\\IGroupRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Abstract\\IGroupRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T08:18:01.482Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:40:13.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Base\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Base\\Repository.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Data\\Repositories\\Base\\Repository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Base\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:48:49.793Z"
             }
           ]
         }

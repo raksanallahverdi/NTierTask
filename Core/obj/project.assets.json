@@ -4101,6 +4101,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 8.0.7",
+      "Microsoft.EntityFrameworkCore.Design >= 8.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.7"
     ]
@@ -4111,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\allah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\allah\\Source\\Repos\\NTierArch\\Core\\obj\\",
+      "outputPath": "C:\\Users\\allah\\OneDrive\\Desktop\\NTierArch\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\allah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4151,6 +4152,12 @@
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.7, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[8.0.7, )"
           },

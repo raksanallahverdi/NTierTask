@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Services.Abstract
+namespace Application.Services.Abstract;
+
+public interface IStudentService
 {
-    public interface IStudentService
-    {
-        public void GetAllStudents() { }
-        public void GetStudentById() { }
-        public void AddStudent() { }
-        public void UpdateStudent() { }
-        public void DeleteStudent() { }
-    }
+    public void GetAllStudents() { }
+    public void GetStudentById() { }
+    public void AddStudent() { }
+    public void UpdateStudent() { }
+    public void DeleteStudent() { }
 }
